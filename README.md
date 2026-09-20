@@ -33,6 +33,6 @@
 
 ## 📥 靶场程序下载
 靶场可执行文件与源码压缩包在 Release 页面下载：
-👉[ https://github.com/你的用户名/re-lab-student/releases](https://github.com/hustping/re-lab-student/releases/tag/%E5%85%A5%E9%97%A8%E9%80%86%E5%90%91%E9%9D%B6%E5%9C%BA)
+👉[/releases](https://github.com/hustping/re-lab-student/releases/tag/%E5%85%A5%E9%97%A8%E9%80%86%E5%90%91%E9%9D%B6%E5%9C%BA)
 
 > 仓库内不存放大体积二进制文件，请前往Release下载附件。
